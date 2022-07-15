@@ -19,3 +19,10 @@ Con la emoción de que llega la navidad, nos está costando dormir bastante últ
 ¡El Grinch anda suelto y quiere fastidiar la Navidad! 😱 Vamos a arreglar el lío que ha montado en la fábrica de regalos de Santa Claus
 
 ![Grinch](https://imgur.com/B6u753hs.png)
+
+# [#5 Contando los días para los regalos](05-Contando-los-d%C3%ADas-para-los-regalos/05-Contando-los-d%C3%ADas-para-los-regalos.md)✅
+
+¡Qué ganas de abrir los regalos 🎁! Estoy tan nervioso que no paro de contar los días que faltan 🤣. ¿Me ayudas creando un programita? ¡Venga!
+
+![Regalos](https://i.imgur.com/XT6b19v.png)
+ 
